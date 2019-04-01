@@ -3,46 +3,47 @@ body{
     padding: 0;
     background-color: #fff;
 	color: #fff;
-	background: linear-gradient(-45deg, rgb(180, 146, 241), rgb(18, 219, 255), rgb(18, 255, 30), rgb(235, 18, 255));
-	background-size: 400% 400%;
-	-webkit-animation: Gradient 15s linear infinite;
-	-moz-animation: Gradient 15s linear infinite;
-	animation: Gradient 15s linear infinite;
+	
+	background: linear-gradient(-45deg, rgb(137, 111, 185), rgb(137, 111, 185), rgb(145, 73, 212), rgb(145, 73, 212));
+	background-size: 600% 600%;
+	-webkit-animation: Gradient 5s linear infinite;
+	-moz-animation: Gradient 5s linear infinite;
+	animation: Gradient 5s linear infinite;
 }
 
 @-webkit-keyframes Gradient {
 	0% {
-		background-position: 0% 50%
+		background-position: 0% 50%;
 	}
 	50% {
-		background-position: 100% 50%
+		background-position: 100% 50%;
 	}
 	100% {
-		background-position: 0% 50%
+		background-position: 0% 50%;
 	}
 }
 
 @-moz-keyframes Gradient {
 	0% {
-		background-position: 0% 50%
+		background-position: 0% 50%;
 	}
 	50% {
-		background-position: 100% 50%
+		background-position: 100% 50%;
 	}
 	100% {
-		background-position: 0% 50%
+		background-position: 0% 50%;
 	}
 }
 
 @keyframes Gradient {
 	0% {
-		background-position: 0% 50%
+		background-position: 0% 50%;
 	}
 	50% {
-		background-position: 100% 50%
+		background-position: 100% 50%;
 	}
 	100% {
-		background-position: 0% 50%
+		background-position: 0% 50%;
 	}
 }
 h1{
