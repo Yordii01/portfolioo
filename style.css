@@ -6,9 +6,9 @@ body{
 	
 	background: linear-gradient(-45deg, rgb(177, 177, 177), rgb(177, 177, 177), rgb(145, 73, 212), rgb(145, 73, 212));
 	background-size: 600% 600%;
-	-webkit-animation: Gradient 5s linear infinite;
-	-moz-animation: Gradient 5s linear infinite;
-	animation: Gradient 5s linear infinite;
+	-webkit-animation: Gradient 7s linear infinite;
+	-moz-animation: Gradient 7s linear infinite;
+	animation: Gradient 7s linear infinite;
 }
 
 @-webkit-keyframes Gradient {
