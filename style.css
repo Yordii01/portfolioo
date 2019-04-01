@@ -4,7 +4,7 @@ body{
     background-color: #fff;
 	color: #fff;
 	
-	background: linear-gradient(-45deg, rgb(137, 111, 185), rgb(137, 111, 185), rgb(145, 73, 212), rgb(145, 73, 212));
+	background: linear-gradient(-45deg, rgb(177, 177, 177), rgb(177, 177, 177), rgb(145, 73, 212), rgb(145, 73, 212));
 	background-size: 600% 600%;
 	-webkit-animation: Gradient 5s linear infinite;
 	-moz-animation: Gradient 5s linear infinite;
